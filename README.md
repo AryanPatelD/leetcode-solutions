@@ -30,6 +30,7 @@
 | ------- |
 | [0009-palindrome-number](https://github.com/AryanPatelD/leetcode-solutions/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/AryanPatelD/leetcode-solutions/tree/master/0066-plus-one) |
+| [0069-sqrtx](https://github.com/AryanPatelD/leetcode-solutions/tree/master/0069-sqrtx) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/AryanPatelD/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Number Theory
 |  |
@@ -52,4 +53,12 @@
 |  |
 | ------- |
 | [3731-find-missing-elements](https://github.com/AryanPatelD/leetcode-solutions/tree/master/3731-find-missing-elements) |
+## Binary Search
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/AryanPatelD/leetcode-solutions/tree/master/0069-sqrtx) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/AryanPatelD/leetcode-solutions/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
