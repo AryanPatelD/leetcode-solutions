@@ -19,6 +19,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/AryanPatelD/leetcode-solutions/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/AryanPatelD/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/AryanPatelD/leetcode-solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/AryanPatelD/leetcode-solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3731-find-missing-elements](https://github.com/AryanPatelD/leetcode-solutions/tree/master/3731-find-missing-elements) |
@@ -35,6 +36,7 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/AryanPatelD/leetcode-solutions/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/AryanPatelD/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/AryanPatelD/leetcode-solutions/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/AryanPatelD/leetcode-solutions/tree/master/0069-sqrtx) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/AryanPatelD/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -84,4 +86,8 @@
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/AryanPatelD/leetcode-solutions/tree/master/0021-merge-two-sorted-lists) |
+## String
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/AryanPatelD/leetcode-solutions/tree/master/0013-roman-to-integer) |
 <!---LeetCode Topics End-->
