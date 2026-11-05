@@ -12,6 +12,7 @@
 | [1929-concatenation-of-array](https://github.com/AryanPatelD/leetcode-solutions/tree/master/1929-concatenation-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/AryanPatelD/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/AryanPatelD/leetcode-solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/AryanPatelD/leetcode-solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3731-find-missing-elements](https://github.com/AryanPatelD/leetcode-solutions/tree/master/3731-find-missing-elements) |
 | [3925-concatenate-array-with-reverse](https://github.com/AryanPatelD/leetcode-solutions/tree/master/3925-concatenate-array-with-reverse) |
 ## Hash Table
@@ -19,6 +20,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/AryanPatelD/leetcode-solutions/tree/master/0001-two-sum) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/AryanPatelD/leetcode-solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/AryanPatelD/leetcode-solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3731-find-missing-elements](https://github.com/AryanPatelD/leetcode-solutions/tree/master/3731-find-missing-elements) |
 ## Database
 |  |
