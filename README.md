@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/AryanPatelD/leetcode-solutions/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/AryanPatelD/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0035-search-insert-position](https://github.com/AryanPatelD/leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/AryanPatelD/leetcode-solutions/tree/master/0066-plus-one) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AryanPatelD/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0643-maximum-average-subarray-i](https://github.com/AryanPatelD/leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
@@ -65,6 +66,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/AryanPatelD/leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/AryanPatelD/leetcode-solutions/tree/master/0069-sqrtx) |
 ## Newton's Method
 |  |
