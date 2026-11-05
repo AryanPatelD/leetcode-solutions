@@ -9,11 +9,13 @@
 | [0066-plus-one](https://github.com/AryanPatelD/leetcode-solutions/tree/master/0066-plus-one) |
 | [1929-concatenation-of-array](https://github.com/AryanPatelD/leetcode-solutions/tree/master/1929-concatenation-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/AryanPatelD/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3731-find-missing-elements](https://github.com/AryanPatelD/leetcode-solutions/tree/master/3731-find-missing-elements) |
 | [3925-concatenate-array-with-reverse](https://github.com/AryanPatelD/leetcode-solutions/tree/master/3925-concatenate-array-with-reverse) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/AryanPatelD/leetcode-solutions/tree/master/0001-two-sum) |
+| [3731-find-missing-elements](https://github.com/AryanPatelD/leetcode-solutions/tree/master/3731-find-missing-elements) |
 ## Database
 |  |
 | ------- |
@@ -45,4 +47,8 @@
 | ------- |
 | [1929-concatenation-of-array](https://github.com/AryanPatelD/leetcode-solutions/tree/master/1929-concatenation-of-array) |
 | [3925-concatenate-array-with-reverse](https://github.com/AryanPatelD/leetcode-solutions/tree/master/3925-concatenate-array-with-reverse) |
+## Sorting
+|  |
+| ------- |
+| [3731-find-missing-elements](https://github.com/AryanPatelD/leetcode-solutions/tree/master/3731-find-missing-elements) |
 <!---LeetCode Topics End-->
