@@ -76,4 +76,12 @@
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/AryanPatelD/leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
+## Linked List
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/AryanPatelD/leetcode-solutions/tree/master/0021-merge-two-sorted-lists) |
+## Recursion
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/AryanPatelD/leetcode-solutions/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
