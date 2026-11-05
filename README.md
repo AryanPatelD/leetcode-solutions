@@ -8,6 +8,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/AryanPatelD/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0066-plus-one](https://github.com/AryanPatelD/leetcode-solutions/tree/master/0066-plus-one) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AryanPatelD/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0643-maximum-average-subarray-i](https://github.com/AryanPatelD/leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
 | [1929-concatenation-of-array](https://github.com/AryanPatelD/leetcode-solutions/tree/master/1929-concatenation-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/AryanPatelD/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/AryanPatelD/leetcode-solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -69,4 +70,8 @@
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AryanPatelD/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/AryanPatelD/leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
