@@ -10,6 +10,7 @@
 | [0066-plus-one](https://github.com/AryanPatelD/leetcode-solutions/tree/master/0066-plus-one) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AryanPatelD/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0643-maximum-average-subarray-i](https://github.com/AryanPatelD/leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
+| [1732-find-the-highest-altitude](https://github.com/AryanPatelD/leetcode-solutions/tree/master/1732-find-the-highest-altitude) |
 | [1929-concatenation-of-array](https://github.com/AryanPatelD/leetcode-solutions/tree/master/1929-concatenation-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/AryanPatelD/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/AryanPatelD/leetcode-solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -101,4 +102,8 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/AryanPatelD/leetcode-solutions/tree/master/0020-valid-parentheses) |
+## Prefix Sum
+|  |
+| ------- |
+| [1732-find-the-highest-altitude](https://github.com/AryanPatelD/leetcode-solutions/tree/master/1732-find-the-highest-altitude) |
 <!---LeetCode Topics End-->
