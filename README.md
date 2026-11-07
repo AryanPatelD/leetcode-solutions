@@ -22,6 +22,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/AryanPatelD/leetcode-solutions/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/AryanPatelD/leetcode-solutions/tree/master/0013-roman-to-integer) |
+| [1189-maximum-number-of-balloons](https://github.com/AryanPatelD/leetcode-solutions/tree/master/1189-maximum-number-of-balloons) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/AryanPatelD/leetcode-solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/AryanPatelD/leetcode-solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3731-find-missing-elements](https://github.com/AryanPatelD/leetcode-solutions/tree/master/3731-find-missing-elements) |
@@ -94,6 +95,7 @@
 | ------- |
 | [0013-roman-to-integer](https://github.com/AryanPatelD/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/AryanPatelD/leetcode-solutions/tree/master/0020-valid-parentheses) |
+| [1189-maximum-number-of-balloons](https://github.com/AryanPatelD/leetcode-solutions/tree/master/1189-maximum-number-of-balloons) |
 ## Stack
 |  |
 | ------- |
@@ -106,4 +108,8 @@
 |  |
 | ------- |
 | [1732-find-the-highest-altitude](https://github.com/AryanPatelD/leetcode-solutions/tree/master/1732-find-the-highest-altitude) |
+## Counting
+|  |
+| ------- |
+| [1189-maximum-number-of-balloons](https://github.com/AryanPatelD/leetcode-solutions/tree/master/1189-maximum-number-of-balloons) |
 <!---LeetCode Topics End-->
